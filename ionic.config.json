@@ -1,0 +1,7 @@
+{
+  "name": "LOTR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
